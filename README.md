@@ -5,5 +5,5 @@
   <img width="250px" height="250px" src="https://file.garden/aTN1R0deYkPxCX0D/lavender.gifv">
 </p>
   <p align="center">
- <img width="130px" height="130px" src="https://file.garden/aTN1R0deYkPxCX0D/bachi.jpg">
+ <img width="120px" height="120px" src="https://file.garden/aTN1R0deYkPxCX0D/bachi.jpg">
  </p>
