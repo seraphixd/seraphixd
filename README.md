@@ -4,7 +4,3 @@
 <p align="center">
  <img width="120px" height="120px" src="https://file.garden/aTN1R0deYkPxCX0D/bachi.jpg">
 </p>
-
-<p align="center">
- <img width="64px" height="56px" src="https://file.garden/aTN1R0deYkPxCX0D/aomin.jpg">
-</p>
