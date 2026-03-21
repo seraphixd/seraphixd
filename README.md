@@ -2,5 +2,5 @@
   <img width="320" height="100" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln4sfovn4k45va3kowbjaihhlq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)">
 </p>
 <p align="center">
- <img width="112px" height="112px" src="https://i.pinimg.com/736x/75/a5/ef/75a5eff61b6b2312416925d35381199d.jpg">
+ <img width="112px" height="112px" src="https://file.garden/aTN1R0deYkPxCX0D/bear.png">
 </p>
