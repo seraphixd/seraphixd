@@ -1,3 +1,3 @@
 <p align="center">
- <img width="172px" height="106px" src="https://file.garden/aTN1R0deYkPxCX0D/swan.png">
+ <img width="199px" height="199px" src="https://s3.ezgif.com/tmp/ezgif-32cd1908d187be54.png">
 </p>
