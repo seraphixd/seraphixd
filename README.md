@@ -2,7 +2,7 @@
 <img width="188px" height="140px" src="https://file.garden/aTN1R0deYkPxCX0D/wedsies.gif">
 <p align="center">
 <p align="center">
-<img width="28px" height="21px" src="https://64.media.tumblr.com/5bb319237023b8ae43729035aa4f402c/2a6ba979c585bbd6-49/s75x75_c1/af0e756490a05699cfb56421b9ca1cdfd20c0cf3.gifv">
+<img width="28px" height="21px" src="https://64.media.tumblr.com/2ff657b0c9ca3178383a373a577c816c/03f06c8c6fcca39c-51/s75x75_c1/c7c04cb9a800d0b8852ad102500911a1a632f045.pnj">
 <p align="center">
 <div align="center">
 　‎‎ ‎‎ ‎‎ ‎‎ <a href="https://rentry.co/sickozero">rentry</a>ㅤㅤ￴￴￴￴￴
