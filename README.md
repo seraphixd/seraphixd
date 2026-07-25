@@ -1,5 +1,5 @@
 <p align="center">
-<img width="188px" height="140px" src="https://s6.ezgif.com/tmp/ezgif-6bd7920158be7492.webp">
+<img width="188px" height="140px" src="https://file.garden/aTN1R0deYkPxCX0D/sickwe3d.webp">
 <p align="center">
 <p align="center">
 <img width="28px" height="21px" src="https://64.media.tumblr.com/2ff657b0c9ca3178383a373a577c816c/03f06c8c6fcca39c-51/s75x75_c1/c7c04cb9a800d0b8852ad102500911a1a632f045.pnj">
