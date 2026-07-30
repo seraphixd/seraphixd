@@ -2,7 +2,7 @@
 <img width="244px" height="145px" src="https://file.garden/aTN1R0deYkPxCX0D/woahguiatrspin.gif">
 <p align="center">
 <div align="center">
-　‎‎ ‎‎ ‎‎ ‎‎ <a href="https://rentry.co/sickozero">rentry</a>ㅤ￴
+<a href="https://rentry.co/sickozero">rentry</a>ㅤ￴
   ㅤ￴<a href="https://pronouns.cc/@sickozero">pronouns</a>￴￴ㅤ
 　<a href="https://sickozero.atabook.org/">atabook</a>￴
 </div>
