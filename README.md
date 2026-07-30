@@ -1,5 +1,5 @@
 <p align="center">
-<img width="244px" height="145px" src="https://s6.ezgif.com/tmp/ezgif-693525d7b4e8dad5.gif">
+<img width="244px" height="145px" src="https://file.garden/aTN1R0deYkPxCX0D/woahguiatrspin.gif">
 <p align="center">
 <div align="center">
 　‎‎ ‎‎ ‎‎ ‎‎ <a href="https://rentry.co/sickozero">rentry</a>ㅤㅤ￴￴￴￴￴
