@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://rentry.co/themeetingplaces">rentry</a>　
   ㅤ￴<a href="https://pronouns.cc/@themeetingplaces">pronouns</a>￴￴　
-　<a href="https://themeetingplaces/">atabook</a>￴
+　<a href="https://themeetingplaces.atabook.org/">atabook</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
