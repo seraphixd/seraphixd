@@ -1,13 +1,1 @@
-<p align="center">
-<img width="244px" height="145px" src="https://file.garden/aTN1R0deYkPxCX0D/ezgif-265bae6daeb3f290.gif">
-<p align="center">
-<div align="center">
-  <a href="https://rentry.co/sickozero">rentry</a>　
-  ㅤ￴<a href="https://pronouns.cc/@sickozero">pronouns</a>￴￴　
-　<a href="https://sickozero.atabook.org/">atabook</a>￴
-</div>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln4sfovn4k45va3kowbjaihhlq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
+
